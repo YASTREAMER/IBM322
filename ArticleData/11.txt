@@ -18,13 +18,13 @@ The data that Netflix feeds into its algorithms can be broken down into two type
 To illustrate how all this data comes together to help viewers find new things to watch, Netflix looked at the patterns that led viewers towards the Marvel characters that make up The Defenders. While there were some more obvious trends, such as series with strong female leads – like Orange is the New Black – steering characters towards Jessica Jones, there were also a few less obvious sources, like the smart humour of Master of None and the psychological thrill of Making A Murderer driving people towards the wise-ass private detective. Meanwhile, "shows that expose the dark side of society" were shown to drive viewers to Luke Cage, such as the question of guilt in Amanda Knox and the examination of technology in Black Mirror.
 This article was originally published by WIRED UK
 Angela Watercutter
+Matt Kamen
+Jennifer M. Wood
+Matt Kamen
 Jennifer M. Wood
 Jennifer M. Wood
 Matt Kamen
 Matt Kamen
-Matt Kamen
-Jennifer M. Wood
-Angela Watercutter
 More From WIRED
 Reviews and Guides
 © 2024 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices

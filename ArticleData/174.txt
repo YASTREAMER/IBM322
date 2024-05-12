@@ -1,0 +1,55 @@
+Data and Analytics Creating Value for Hulu - Digital Innovation and Transformation
+Next:
+Data is creating value at Hulu through its selection of content to invest in, its search recommendation engine, and its advertisers.
+Founded in 2007 and launched publicly in 2008, Hulu is a partially ad-supported online video distributor, largely focused on PayTV content currently on the air. A joint-venture between Fox, Disney, and NBCUniversal, Hulu has changed its business model, pricing, and content partners over the years; however, it continues stream thousands of hours of premium television and movie content to its subscribers.[1]
+Hulu creates value through partnering with premium content providers to stream popular television series and movies, and organizing them in a way that makes it easy for the consumer to find and discover content. The two most salient uses of data here are for content acquisition purposes and for the company’s recommendation engine. After speaking with a Content Acquisition Specialist at Hulu it is easy to see a key component of this role is data analysis. First, the Specialists analyze the content they are looking to acquire by comparing it to similar content on the site, and looking at the show’s historical performance (e.g., on broadcast, cable, etc.). From this data, they can build models estimating how much value they think the content could generate for them. It is then the job of the Specialist to continue to monitor the usage data to see if they are indeed capturing such value from the content. This analysis can now help inform future purchasing decisions.
+
+Hulu also captures significant value from its search recommendation engine, which it continuously works to improve. Hulu strives to recommend content to users that first and foremost aligns with the customer’s interests, but that also helps content owners promote their video. Consumer behavior is the key data set that drives the majority of the recommendations. Through Hulu’s online and offline architecture (see below), Hulu is enabled to use data to inform recommendations decisions and generate daily reporting on the quality of those recommendations.
+Online Architecture
+
+Offline Architecture
+
+              Hulu is continuously trying to improve its algorithms. It tests these relative improvements through A/B testing. One of the key lessons that the company has learned from these tests is that recommendations should fit a user’s recent preferences, rather than older historical behaviors.[2]
+ 
+Hulu captures value through advertisements and subscription fees. This strategy is different than competitors such as Netflix and Amazon, who do not monetize through advertising at all. Advertising is another opportunity for Hulu to realize the value of its data. Because it has robust consumer viewing behavior data, it makes it easier for them to target specific viewers for advertising partners. Since Hulu’s content is inherently premium as well, this allows the company to charge premium CPMs to most internet video companies.[3]
+              While originally the major networks tool to experiment with online video platforms, Hulu has evolved to be a force to be reckoned with in the online distribution marketplace. While the company has yet to reach continued profitability, it is estimated to be bringing in $1.5bn-$1.7bn in revenue this year, up from $1bn in 2013. While the company still has a long way to go to catch up to Netflix’s $5.5bn in revenue in 2014, Hulu owners have started to invest more in the site, giving Hulu a better chance at catching up. Per the below graph, Hulu is expected to nearly double its spending on content in 2015 to an estimated $1.5bn.
+
+              While still trailing behind Netflix’s $3.3bn, it will be interesting to see how this increased investment plays out in the marketplace and if it indeed leads to increased subscriber acquisition and revenues. That said, this also raises the question around the continuous increase in programming costs. With more and more deep-pocketed players entering the content distribution space, and premium high quality content as a scarce resource, it will be interesting to see just how expensive programming will become.
+[1] http://www.hulu.com/press/about
+[2] http://tech.hulu.com/blog/2011/09/19/recommendation-system/
+[3] http://blog.hulu.com/2015/08/25/hulu-offers-smarter-advertising-with-programmatic-buying/
+Previous:
+Next:
+Thanks for the post (and awesome alias), DIGIT Girl! It’s great that Hulu has been leveraging its data analytics team to ensure that the content acquisition and recommendation engine is continuously evolving, which benefits users who receive relevant TV/movie recommendations. I also can appreciate the targeted advertisement approach. As much as I love ads, I prefer to watch ads on Hulu than on traditional TV, since they are much more tailored to my preferences (e.g., more age-specific, more gender-specific). 
+With all this consumer data, I wonder if Hulu is thinking strongly about creating their own content (e.g., the Netflix approach with Orange is the New Black). Although the upfront costs may be high, they could continue to attract more users to their platform, assuming they develop great content. With more users, Hulu can not only capture value through consumer subscriptions, but although through advertisement platforms (leveraging indirect network effects).
+Thank you for your post! I really enjoyed reading about Hulu and their strategy. I used to pay for the content on Hulu, but I just stopped doing it a couple of months ago. The reason for this is that most of the shows they offer can be accessed for free after a week they have aired and the non-advertisement service has a higher monthly fee than Netflix. This makes me question what is the real competitive advantage for Hulu, and how can they compete with larger players? Netflix for instance has a better recommendation system and has leveraged it to create and predict content success. How can Hulu differentiate? is there a way to create a competitive advantage using advertisement? Is there an interesting business model to lower fees or make it a free service and get revenues through targeted Ads?
+You must be logged in to post a comment.
+
+
+
+
+
+
+						November 23, 2015					
+Schwas says: 
+
+Thanks for the post (and awesome alias), DIGIT Girl! It’s great that Hulu has been leveraging its data analytics team to ensure that the content acquisition and recommendation engine is continuously evolving, which benefits users who receive relevant TV/movie recommendations. I also can appreciate the targeted advertisement approach. As much as I love ads, I prefer to watch ads on Hulu than on traditional TV, since they are much more tailored to my preferences (e.g., more age-specific, more gender-specific). 
+With all this consumer data, I wonder if Hulu is thinking strongly about creating their own content (e.g., the Netflix approach with Orange is the New Black). Although the upfront costs may be high, they could continue to attract more users to their platform, assuming they develop great content. With more users, Hulu can not only capture value through consumer subscriptions, but although through advertisement platforms (leveraging indirect network effects).
+
+
+
+
+
+
+
+
+
+						November 23, 2015					
+Ximena says: 
+
+Thank you for your post! I really enjoyed reading about Hulu and their strategy. I used to pay for the content on Hulu, but I just stopped doing it a couple of months ago. The reason for this is that most of the shows they offer can be accessed for free after a week they have aired and the non-advertisement service has a higher monthly fee than Netflix. This makes me question what is the real competitive advantage for Hulu, and how can they compete with larger players? Netflix for instance has a better recommendation system and has leveraged it to create and predict content success. How can Hulu differentiate? is there a way to create a competitive advantage using advertisement? Is there an interesting business model to lower fees or make it a free service and get revenues through targeted Ads?
+
+
+
+
+

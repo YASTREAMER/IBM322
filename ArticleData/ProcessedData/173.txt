@@ -1,0 +1,42 @@
+ Analytical approaches understanding customer retention Hulu 
+
+ Jeffrey Rosenberg Director Software Development Data Analytics Hulu 
+
+   Hulu focus subscriber retention models built assess implications innovative player streaming industry   delighted hear Jeffrey Rosenberg Head Data Analytics Hulu steps Hulu data science team taken identify characteristics signify retention risks examine subsets subscribers patterns behavior bring light risks  
+
+ talk little bit subscriber retention core problem working subscription businesses 
+
+ key takeaways like guys away presentation lot different ways subscription business try retain customers analyze data support use cases Essentially Hulu evolved data science analytics groups bunch methods actually come new interesting thing want talk today Finally Hulu data science cool interesting place work come talk 
+
+ talk retention Hulu tend likelihood retained subscriber   basically assessment going cause cancel think doctors basically engaging measurement problem detection early intervention tend think canceled types buckets involuntary meaning users cancelled choice voluntary ones actually choose cancel Today presentation focused voluntary cancels identify canceled focus 
+
+ important think lens users tell primary way   focus care left main point feedback users generally tend leave video missing content Maybe thing came watch maybe finding thing want watch way breadth content type genre cluster content interested   access lot video services getting value ones leading spend money want focus understand drivers retention risk data scientists lot different methods use analyze data pretty simple complex survival curves cluster analyses user survey data 
+
+ talking today actually possibly interesting examples chosen try different angle problem called subscriber health scores want props data science team heavy lifting involved model exist scores essentially answering key questions   chance retaining subscriber Second find doctors worrisome symptoms subscriber want gather information concerning traits input data users collected service sources outside pieces information filter analyze look correlations    main function finding main drivers health retention risk 
+
+ think set know categories related content variety things watch service terms quantity total minutes watched characterize account types terms type product user purchased   ads live product lots differences content entitlements type long user service matters interesting type product good predictor retention manipulated algorithm way separate scores mutually exclusive collectively exhaustive sub scores 
+
+  
+
+ talks like person Data Science Salon Applying AI ML Media Entertainment Los Angeles 
+
+ 
+
+  
+
+ mantras data science attribution correlation equal causation assertions data lot times wrong lot work minimize overfitting generally missing lot features solution couple different remedies problem architecture designed isolate inputs separate sub scores couple different regularizer functions essentially force scores somewhat important explode variance way makes relative understand like quantity minutes watched usage   overlap actually way look force separate gone process gathering sub trade data constantly adding new data assess business insight talking stakeholders correlation analysis terms level importance actually want attribute data job algorithm organize data essentially assigning feature dimensions train model predict retention probability score prediction train model validate actual retention product score predictions relatively similar prediction retention user 
+
+ regularizer functions trained remove inter dependencies considered significant wanted look look sub score try going example isolate tenure instance look total viewing time expect tenure service long plus total viewing time correlation Similarly lot correlation viewing time content score variety interesting thing quantity score tightly correlates histogram total viewing time viewers gives actually way able laser interesting point diminishing return 
+
+ sweet spot long content people watch actually month user lifetime extend   analyses gives ability zoom customers start analyze deeper level looking way isolate different groups users think exhibiting interesting retention behavior help characterize behavior sub scores actually opens different possibilities cohort analysis able characterize risk conduct secondary analysis cohorts marrying segments applying different correlation analyses features experiment try score different bracket risk category ability focus subscription level allows cool things like detecting act risk experiments score thresholds experimentation platform 
+
+ obviously beginning starting applications try actually data effective use transition matrix looking change month month users migrating different risk categories determining migration meaningful actually output data groups users transition drivers analysis caused group users retention starting use analytical tool practice nascent getting ramped cohort identification marketing purposes able use scores surgically select groups subscribers risk specific marketing purposes promising results far/ 
+
+ closing want shout team able build interpretable model retention risk lot capabilities diagnostic tool know able foresee begin example types challenging innovative work engaged Hulu inspired come talk 
+
+  
+
+ content like miss   Data Science Salon LA November 7 2019 
+
+ 
+

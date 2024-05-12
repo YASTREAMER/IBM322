@@ -1,0 +1,134 @@
+ HULU Digital Transformation 1 Change Analysis Proposal | Maha Mohsin | Mar 2024 | Medium 
+
+ Sign 
+
+ Sign 
+
+ Sign 
+
+ Sign 
+
+ Maha Mohsin 
+
+ Follow 
+
+ 
+
+ Listen 
+
+ Share 
+
+ HULU platform online streaming allowing stream TV shows movies online participation different people founded platform Kilar selected chief executive officer company founded 2007 Jason Kilar headquarters Los Angeles California United States HULU partnered companies year including Walt Disney Company BBC Spotify Moore 2019 
+
+ Hulu come long way big streaming platform currently 39.4 million subscribers 100 million users Hulu huge annual revenue 2.7 Billion dollars advertisement platform growth impressive added 37.5 Viewers 2018 2020 shown figure Dean 2018 
+
+ Hulu 20 share based subscription market 34 market share multichannel video programming distributors sector retention rate company 67 total revenue Hulu 2019 9.6 billion dollars considered exponential growth compared previous year growth Hulu 2019 2022 shown figure Curry 2021 
+
+ Hulu offered different subscription plans users include Basic Hulu Hulu Ads Hulu Ads + Live TV Hulu Ads + Live TV Hulu offers different add ons allow users access premium channels like HBO Max Showtime Cinemax Starz Cohen 2023 
+
+ company operates Entertainment industry largest streaming platforms giving tough competition Netflix main sector operation entertainment operates advertisement business add based revenue system add based revenue system allows companies work collaborate different companies mainly operated United States unavailable outside USA Lovely 2023 
+
+ era digitalization impacting sector life business techniques methodologies impacted digital tools complex processes easier making easier companies understand fulfil customers demands expectations consumers companies increased resulting sense competition companies way adopt digital tools result created digital disruptions Hulu affected digital disruption 
+
+ Digital tools allow companies understand behaviour users streaming platforms use tools customized experiences customers Customers expect platform recommend content like personalized experience result streaming platforms started AI algorithms meet customers expectations Hulu technology instead AI algorithms preferred data provided consumers introduced enhanced recommendation system McClinton 2020 recommendation system allowed collect user data observe watching time spent specific content Granados 2022 
+
+ Hulu add based revenue model allows provide subscriptions lesser price platforms companies want advertise products Hulu platform pay platform observe rate return advertisements shows companies want displaying ads Hulu subscriber Hulu launched proprietary pixel websites allowing track users checked products buy data company understand advertisement effectiveness help advertiser necessary ad changes conversion rates Plesser 2020 
+
+ company vision excel entertainment industry best streaming platform following business model add based revenue model supported long time investing techniques improve use smart way instead simply displaying ads objective separate advertisement business bypass revenue advertisement disturbing consumers objective company accomplish add customized user friendly experience Digital transformation allow company optimize system company ensure optimization search recommendation engines digital transformation digital objectives potential increase revenue popularity platform people 
+
+ Digital tools easy collect feedback customers data analyze market situation customer demands brand position knowledge affects decision process companies allows decisions smartly decisions fewer calculated risks compared old business decision making methods data directly linked decision processes decisions based insights better rate returns decision processes need market research Hulu understand market trends 
+
+ Market research necessary company pursuing understand products services appreciated consumers Market research allows company invest right direction best product design content Market research difficult help right digital tools digitals helps collect consumer insights fully understand situation use insights decisions calculated risks hyperawareness directly linked market research use informed decisions 
+
+ People demographics use social media platforms linked social media best way different companies promote companies platform understand trend market Hulu upload trailer small portions content social media number likes shares comments help Hulu understand genre watched users 
+
+ understand kind content famous different regions automate recommendation system accordingly Hulu currently million followers Facebook users targeted understand market trends Clampitt et al 2021 Hulu needs integrate social media monitoring tools extract correct user data social media tools Hulu use given 
+
+ social media monitoring tool monitor platforms filters find required topic information easily help analyze comments impression people popularity content Cooper 2019 
+
+ social media tool monitor content news scattered worldwide monitors tweets hashtags content Cooper 2019 
+
+ streaming platforms currently AI tools optimize recommendation engine Hulu chose different approach considered human created selection company use searches search engine fully understand user analyze searched content indicate content viewers eager watch having content recommendation shortlist content type genre audience currently interested adding human created search AI tools recommend better content compared competitors help company win loyalty viewers Hinkle 2021 
+
+ fast decisions necessary era digitalization thing faster consumers expect fast results companies entertainment world viewers expectations content creators launch trailers content creators accept criticism viewers fastly alter changes decisions analyzed data correctly fast decision making customized personal level manner platform broadcasts content according routine person technologies fast decisions discussed 
+
+ streaming analytics tools collects data real time viewer platform allows understand routine viewer streaming analytics tools easily help recommend right content right time increase viewer engagement platform tools helps fast decision process real time data potential automate suggestions recommended content streaming analytics tools bu Hulu given 
+
+ Apache flink good analytics tool Hulu assist fast decision making potentially analyse million events small span milliseconds quickly analyse data send different places platforms help nodes Memgraph 2023 
+
+ digital transformation demands digital culture different methods implement digital culture discussed 
+
+ Implementing digital skill development program employees help install technologically proficient culture Hulu program employees able learn new competencies expertise increase knowledge digital environment help easily adopt new computer technologies program include topics help employees learn e marketing data mining cloud technology security etc programs personalized customized according requirements department Hulu e.g. customer service marketing production operations Different job job training virtual lectures provided employees developmental program effective employee access program home complete access program Martin 2020 
+
+ encourage employees engagement program suggest providing certifications completing program motivate participate help employees learn new help Hulu pull outstanding performers Furthermore suggest creating innovative centre like lab new software hardware technologies employees test new internet technologies innovative ideas Implementing strategies help foster culture ingeniousness ongoing improvement 
+
+ Different collaborative tools like Microsoft Teams Google Meet encourage collaboration allow employees share ideas creativity easily Hulu embrace remote work employees collaborative tools technology lead employee freedom balance work life saving lots costs Hulu Hulu create virtual workspace tools required effective communication collaboration way employees tools need work effectively efficiently Martin 2020 
+
+ approach Hulu use technology savvy culture data driven decision making approach includes making informed decisions utilizing data use platforms like social media apps customer reviews Market surveys gather data Based data collected tailor products services according needs wants customers data gathered help analyze performance digital modernization programs Hulu started helps understating future trends based consumers behaviour recent trends market way Hulu develop different strategies help target potential customers stay ahead competitors Martin 2020 
+
+ technique Hulu use enable digital transformation culture encouraging growth mindset means learn abilities hard work commitment traits present person Hulu organizational culture grow digital transformation encourages growth mindset implement growth culture Hulu create culture experimentation employees test try new things fear failing fail way able learn mistakes provide Hulu innovative ideas supporting digital transformation Rewarding employees new innovative ideas good technique develop culture innovation Hulu employees encouraged participate think outside box Martin 2020 
+
+ recommend Digital leadership styles encourage teamwork collaboration company Hulu think effective appropriate styles transformational leadership Servant leadership style 
+
+ Transformational leadership style refers type administration guidance helps individuals team attain goals endorsing advancement progress lead individuals team members creative innovative willing risks better decision making capability result performance increase 
+
+ Hulu drive digital transformation transformational leadership extremely important includes creating clear vision digitization communicating vision employees different departments know organization goals establish strategies accomplishing vision encourage motivate employees leading organizational innovation ParthaNaskar 2015 
+
+ leadership style involves placing needs employees customers stakeholders type leader work alongside employee achieve organization goals encouraging teamwork collaboration 
+
+ Hulu servant leadership important create sense collaboration different departments Hulu employees workers feel valued Hulu puts interests needs providing necessities leadership style encourages emphatic listening means listening employees ideas etc create team oriented work environment Hulu ParthaNaskar 2015 
+
+ Clampitt P. M. Konitzer L. Lehman M. Lung M. Martinez V. 2021 Project 2 Compare Repair -Netflix vs Hulu COMM 477 -Social Media Strategies online Available https://www.uwgb.edu/UWGBCMS/media/Phillip-G.Clampitt/hall-of-fame/NetflixVsHulu.pdf 
+
+ Cohen S. 2023 complete price breakdown Hulu Hulu Live TV packages monthly plans range $ 7 $ 76 online Business Insider Available https://www.businessinsider.com/guides/tech/how-much-is-hulu 
+
+ Curry D. 2021 Hulu Revenue Usage Statistics 2020 online Business Apps Available https://www.businessofapps.com/data/hulu-statistics/. 
+
+ Dean B. 2018 Hulu Viewership Subscriber Statistics People Watch Hulu 2021 online Backlinko Available https://backlinko.com/hulu-users 
+
+ Dream McClinton 2020 Artificial Intelligence Controlling Stream Netflix Hulu online www.thomasnet.com Available https://www.thomasnet.com/insights/is-artificial-intelligence-controlling-what-you-stream-on-netflix-hulu/. 
+
+ Granados N. 2022 Tech Disruptions Underway Consumers Enjoy Best Entertainment Bye Bye Word Mouth online Forbes Available https://www.forbes.com/sites/nelsongranados/2022/03/23/tech-disruptions-are-underway-for-consumers-to-enjoy-the-best-entertainment-bye-bye-word-of-mouth/?sh=22d8490522f9 Accessed 15 2023 
+
+ Hinkle D. 2021 Streaming Services Use Algorithms online AMT Lab CMU Available https://amt-lab.org/blog/2021/8/algorithms-in-streaming-services 
+
+ Lovely S. 2023 Hulu Streaming Service Review year online Cordcutting.com Available https://cordcutting.com/services/hulu/reviews/. 
+
+ Martin 2020 8 step plan build digital culture online Available https://cdn2.hubspot.net/hubfs/511436/collateral/8-step-plan-to-build-a-digital-culture.pdf 
+
+ Memgraph 2023 10 Streaming Analytics Tools online Memgraph.com Available https://memgraph.com/blog/streaming-analytics-tools Accessed 15 2023 
+
+ Moore C. 2019 Hulu 5 things set apart streaming giants online Fox Business Available https://www.foxbusiness.com/technology/5-things-to-know-about-hulu 
+
+ Morgan B. 2020 10 Ways Hulu Building Customer Experience Rival Netflix online Forbes Available https://www.forbes.com/sites/blakemorgan/2020/12/07/10-ways-hulu-is-building-a-customer-experience-to-rival-netflix/?sh=3f07943b6c55 Accessed 15 2023 
+
+ Naskar P. 2015 TRANSFORMATIONAL SERVANT LEADERSHIP EVIDENCE INDIAN HIGHER EDUCATION online Available https://tojqih.net/journals/tojqih/articles/v02i04/v02i04-11.pdf 
+
+ Paige Cooper 2019 16 Best Social Media Monitoring Tools online Hootsuite Social Media Management Available https://blog.hootsuite.com/social-media-monitoring-tools/. 
+
+ Plesser A. 2020 Goal Lessen Ad Disruption Hulu Davidov online www.linkedin.com Available https://www.linkedin.com/pulse/goal-lessen-ads-disruption-hulus-davidov-andy-plesser Accessed 15 2023 
+
+ 
+
+ 
+
+ Passionate creating impactful stories sharing knowledge diverse topics Let connect power words 
+
+ Help 
+
+ Status 
+
+ 
+
+ Careers 
+
+ Blog 
+
+ Privacy 
+
+ Terms 
+
+ Text speech 
+
+ Teams 
+
