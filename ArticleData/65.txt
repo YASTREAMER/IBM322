@@ -1,0 +1,171 @@
+How Amazon created the Prime membership program - Vox
+Filed under:
+An oral history of the subscription service that changed online shopping forever.
+It’s easy to forget now, but Amazon wasn’t always the king of online shopping. In the fall of 2004, Jeff Bezos’s company was still mostly selling just books and DVDs. 
+That same year, Amazon was under siege from multiple sides. Some of its biggest competitors were brick-and-mortar chains like Best Buy, which was still in expansion mode at the time, with sales growing 17 percent annually. Toys ‘R’ Us sued Amazon in a high-profile battle, alleging it had violated an agreement the two companies had for the toy store chain to be an exclusive seller on Amazon.com. 
+And during the holiday season, Amazon’s website suffered repeated outages, drawing the wrath of customers and the press alike.
+Amazon was worth $18 billion at the time. Its online rival eBay, on the other hand, was an internet darling worth nearly $33 billion. If you were an outsider to both companies and you had to pick one as the future Everything Store, it might have been hard to imagine Amazon as the victor.
+But 15 years later, Amazon is worth more than $900 billion, compared to just $33 billion for its old foe eBay, which spun off its (more valuable) payment division, PayPal. And the Amazon Prime membership program is perhaps the biggest reason why.
+The service, which launched in February of 2005, was a first of its kind: For an upfront payment of $79, customers were rewarded with all-you-can-eat two-day delivery on their orders. At the time, Amazon charged customers $9.48 for two-day delivery, meaning if you placed just nine of these orders in a year, Prime would pay for itself.
+“[E]ven for people who can afford second-day shipping, this feels sort of like an indulgent luxury,” Bezos said of Prime, on a call with Wall Street analysts when he introduced the service in February 2005.
+With it, Amazon single-handedly — and permanently — raised the bar for convenience in online shopping. That, in turn, forever changed the types of products shoppers were willing to buy online. Need a last-minute gift or nearing the end of a pack of diapers? Amazon was now an alternative to the immediacy of brick-and-mortar stores.
+But the idea came with huge risks, and it spurred real tension inside Amazon. Some managers resented that their projects appeared to be deprioritized for a secret program they knew little about. Others feared that Amazon’s top customers were going to abuse the program and ultimately bankrupt the company with soaring shipping costs. 
+And if it succeeded, Amazon Prime was going to mean big, uncomfortable changes on everything from how managers were evaluated by superiors to how the company fulfilled orders and moved goods from point A to point B.  
+Bezos’s instinct, however, proved to be very right. Prime members spend more and buy more frequently than non-Prime members do. As of last year, Prime boasted more than 100 million paying members across the globe. 
+This is the story of how the greatest retail innovation of the internet age was created, in the face of sound logic and reason that suggested it might very well be disastrous. It’s also a story of how a frankly bland idea — fast shipping — was powerful enough to alter consumer psychology forever. 
+The story is told by the rank-and-file employees and the top company executives who built Prime. Their words have been edited and condensed for clarity.
+It’s hard to put ourselves back in that year, but at that time we did not know what form of e-commerce was going to take off. Was it going to be auction sites? Was it going to be subscription services? Or was it going to be sites with free shipping thresholds?
+Back then there wasn’t a blind faith that every Jeff idea was going to be a home run. And so there was a lot of pushback. Very prominent people who are at Amazon today and in high positions told me, “You shouldn’t be allowing Jeff to do this,” and, ”This is setting a bad example for the company.”
+The “this” in question was a secret Amazon project that went by the code name Futurama — what would eventually become Amazon Prime. And it started, in part, with a software engineer’s frustration that Amazon’s free-shipping offer — then called Super Saver Shipping — was annoyingly complex, both on the backend and to shoppers, who were required to hit a $25 minimum with each order to qualify for the perk, and then wait eight to 10 business days for their delivery.
+I’m a one-click addict. I hate having to go through the order pipeline and choose everything again and again and again. And ... I couldn’t use one click with Super Saver Free Shipping. 
+I kind of have a perfectionist type of mentality. Things kind of irritate me and get more and more irritating over time and it was just really confirmed to me that I couldn’t make it better. So I threw out this problem to the group: “Wouldn’t it be great if customers just gave us a chunk of change at the beginning of the year and we calculated zero for their shipping charges the rest of that year?” 
+And we kind of had a small pause, a moment where we all looked at it as like, “Is Charlie crazy?”
+So I took the time in that coming week to write up a short half-pager that outlined the basic situation. 
+Charlie’s idea was this all-you-can-eat shipping service. But the idea itself wasn’t about fast shipping. That was when Jeff took it a step further. I remember him saying at the time that nobody wakes up every day hoping that their shipping would be just a little bit slower.
+Jeff said, “Well, hey, it looks like Super Saver Shipping is working really well for us. Can you bring me some similar ideas for faster shipping?” That was the first time, sometime in October 2004, that the idea kind of surfaced.
+I brought what I thought were five or six decent ideas. ...
+We had a particular competitor in the book industry that had a $30 membership. And so I had one item on there, that if you paid a $30 membership, you get a one-class upgrade. This is coming from my airline days. It’s like, wouldn’t it be cool if you paid for standard and you got two-day or if you paid for two-day and you got one-day?
+I brought the team these ideas and we all looked at them and said, “Well, these are all kind of okay ideas but none of them make you fall in love.”
+And then we proceeded to stitch almost all of them together ... into a program you can love. We ended up with a half-price one-day, free two-day shipping with a membership fee.
+We were excited. And I blurted out: “Well, we announced Super Saver Shipping on earnings day. Wouldn’t that be fun if we could do that now?” And as soon as the words were out of my mouth, I wished I could pull them back because this was a week and a half before Thanksgiving — Amazon’s most stressful time. 
+And Jeff latched onto it and said, “That would be a great time for us to do this!”
+That Christmas, in particular, Amazon had some major stability problems that had gotten some pretty big primetime coverage.
+It was the week before peak. ... And Jeff Bezos sent a note to my immediate supervisor at the time ... and said “I want to talk about this project that I think is really important.”
+Surely, whatever this is, I thought, he’s not going to create an incredible workload on the team while we’re basically firefighting keeping the site up during Christmas.
+The meeting was scheduled for Friday afternoon in December. Friday morning rolls around and the website has a multi-hour crash.
+I don’t know how many other people have done this at my level at Amazon, but we canceled the meeting with Jeff. And so then the legend of Prime kind of starts because his response was, “Of course I understand. But this is so important that you have to come over to my house on Saturday morning.”
+We arrive at his house and we actually are sent to a boathouse. The boathouse was larger than my condo and had a fully enclosed parking space for a boat inside.
+The thing I remember very distinctly is this phrase: “I want to draw a moat around our best customers. We’re not going to take our best customers for granted.”
+He said something along the lines of: I’m going to change the psychology of people not looking at the pennies differences between buying on Amazon versus buying somewhere else. 
+And I think that completely changed the mentality. It was brilliant. It made Amazon the default.
+So he leads the way out. And he says, “It’s really important and it needs to launch by Q4 earnings announcement” — which at the time was scheduled for, if I remember correctly, the third week of January.
+We were originally given four weeks. ...
+We said, “There’s no way we can build this in four weeks. Even if everyone worked nonstop, the minimum to do a minimum viable product was six weeks.”
+There’s one under-the-radar reason Amazon was able to go from the idea of Prime to the launch of Prime in just six weeks: more than three years of unsexy work inside Amazon warehouses to make the two-day shipping promise possible. 
+That’s the legacy of another Jeff at Amazon: Jeff Wilke, perhaps the second-most-important executive at the company and the CEO of Amazon’s entire consumer business.
+But back in 1999, he arrived at Amazon from the manufacturing world as a newbie to retail.
+“I was fascinated to walk into our fulfillment centers and hear the language of retail warehousing and distribution, which I didn’t really understand. I saw a factory,” Wilke told Recode in an interview last year. “But all these things that I had been doing in manufacturing had clear analogies in this world.”
+Starting in 2001, Wilke began pushing big changes inside Amazon’s network of warehouses — what it calls fulfillment centers. Software was rewritten. Warehouse layouts were rejiggered. And new processes were implemented that borrowed techniques from ideas like the lean manufacturing methodology. The new system was dubbed FastTrack.
+By 2002, FastTrack was working: The standard 24-hour timeframe it took Amazon to go from receiving an order to the box leaving the warehouse had shrunk, in some cases, to just three hours.
+A year later, Amazon began messaging those quick turnaround times to shoppers with website copy like, “Want it delivered tomorrow? Order in the next three hours and 42 minutes.” More shoppers started paying for faster delivery speeds. 
+“I would have the managers of the facilities at the end of each day send me an email to describe why we missed each shipment that missed,” Wilke said. “Every single one of them. We did that for almost a year to make sure that the processes worked and then we were confident launching it externally.”
+By the time Bezos greenlit the Prime project in a key meeting in late 2004, Wilke didn’t even need to be in the room; most of the hard work was already done.
+
+He made a deal with us. He’s like, “Well, listen, we’ll split the difference. You’re going to figure out how to deliver this early and I’m going to move that earnings call a couple weeks out.”
+So we printed a million T-shirts. On the front is “Futurama” and on the back it says, “Shipping in 6 weeks or less. Guaranteed.”
+Because the Prime project had Bezos’s backing, the team had carte blanche to poach colleagues from any division in the company.
+When we went to your team and messed up the project that you’re working on because we’re going to take a lead engineer, we left you with a T-shirt.
+Your team literally saw you disappear — like you were no longer in your seat and they had no idea why. It was not a common thing. Amazon was not like that.
+There were some all-nighters and there were some nights when five hours of sleep would be a recharge. For me, at the height of the project I was working between 110 and 120 hours a week. 
+Sometime in December I got this email from one of the engineers on the team saying, “Greg, we’re working so hard on this project and I look at it and as a [shareholder] I’m really scared. I think it’s going to take down the company. Are you sure the math works on this program?” 
+It was not obvious to even people that were writing the code that it was going to work in the long term.
+This wasn’t a product where MBAs spent months and months doing all sorts of crazy spreadsheet analysis and then they said, “Let’s do this.” It was instinct and the belief that we were smart enough to figure out how to make this new way of buying on the Amazon site work for the company.
+Jeff blurted out the name. He said, “We’ll call it Prime.”
+I didn’t particularly love the name. For me personally, after I’d heard “all-you-can-eat premium shipping, call it Prime” — I was like, “Prime rib?” But remember, I’m a finance guy. 
+And so I grabbed Chris Bruzzo who was running PR and marketing for us at the time. And I said, “This idea of Prime, I don’t know if that’s quite right. Let’s do a full brand study.” ...
+So we put together a bunch of names. And we went in there with this recommendation like, “Look, here’s 20 names and here’s the three that we actually like better than Prime.” ... Jeff came in and he read the document, he says, “Oh, okay, this is great. I agree. I like Prime.” And then laughed.
+It’s the only time in the 19 years I’ve worked with Jeff where he pretended ... to ignore a recommendation. He was so convinced Prime was the right name.
+And then, because we’re all computer geeks, we loved the whole “prime number” thing.
+Sometimes people miss what a big bet it was on multiple dimensions. Could we scale it just to meet the promise with customers? Would they love it? And if they loved it too much, would we be able to eventually figure out how to pay for it?
+I think people don’t quite remember the environment then, now that Amazon is so dominant. Google had this product called Froogle at the time and eBay was doing considerable volume relative to Amazon. 
+Inside eBay, though, problems were mounting. The company’s revenue growth was slowing and it would fall short of Wall Street analysts’ financial expectations for the holiday season that year. When it revealed its financial results to investors in early 2005, its stock price plunged 19 percent.
+There was also dysfunction stemming from friction between eBay executives and those at PayPal, the online payments darling the auction site had purchased in 2002.
+All of that was kind of percolating in the tail end of ’04 and first half of ’05. Sounds like a perfect recipe for a big competitor to launch.
+Prime was very bold and it very much reflected the strategy that we’ve come to expect from Amazon — that this was a multi-decade time horizon. They’re not playing a quarter-to-quarter game.
+I think there were a couple places in history where eBay made the wrong determination about Amazon. First was: “Well, their auctions business didn’t take off, therefore they’re less threatening.”
+The second one was, “Well, the Amazon brand is totally tied up in books, movies, and music. So, who’s going to buy clothing there?” It wasn’t denial, but it was, “They’re good at a particular set of things and those things are not what we do, therefore we’re okay.”  
+So you could see how smart people would convince themselves that there was nothing to worry about. 
+But the difference was, when you look back at those Amazon shareholder letters and you look back at what Jeff Bezos wrote, you look back at the tolerance they had for low gross margins, for a low stock price, for just grinding it out and investing and investing and investing, and trusting that if you do right for the buyer, everything else takes care of itself.
+This is Sam Walton all over again. And we were not lucky enough to have Sam Walton or Jeff Bezos as our CEO.
+You can imagine the first people who signed up for Prime were people who have been paying for two-day shipping. Those people out there who were dropping 10 bucks every time because they wanted their stuff really quickly. And so then to create a program that essentially gives them what they were already paying for — for less money — can be costly. And so that was the first wave of looking at those numbers. 
+There was a separate set of angst for people on the business side. Shipping revenue was part of the profit margin when Amazon sold goods. If you’re a retail category manager being measured on contribution profit for the quarter, your goals are aligned against that. If only the very best customers at Amazon signed up for Prime and then they took full advantage of free two-day shipping and did not have to pay, then that was going to add up pretty quickly.
+I know on my side it was really hard to make money because that subscription revenue for super users just didn’t cover it for all the stuff we were putting into the air.
+But at the same time, the supply-chain teams were starting to get smarter and smarter about where inventory should be located and how we could reduce our reliance on air shipping.
+But the lovely thing about Amazon is that it doesn’t panic and overreact in those moments. Jeff wasn’t surprised. He’s probably the smartest man in the world. So we sort of held firm and kept looking at the shopping behavior.
+While it’s an unbelievably analytical company, it doesn’t live or die by what the numbers say. Jeff just saw the strategic benefit of Prime and he saw the value to customers. 
+Whereas, I think at some companies they would say, “Yep, customers are doing what we want, but it’s a little too expensive. So let’s kill it.”
+In 2006, Amazon unveiled Fulfillment by Amazon, better known in the e-commerce industry as FBA. The service allowed merchants to store the goods they sold on Amazon inside Amazon warehouses, for a fee; the e-commerce giant would also ship the products on the merchant’s behalf. That allowed merchants to qualify their goods for Prime two-day shipping and helped Amazon greatly expand the catalogue of goods available to Prime members. It was, and is, a huge competitive advantage.
+I just remember thinking this is the end of eBay. They won’t be able to respond to this. They don’t have the organizational experience to build out fulfillment centers and run those operations at a level that Amazon does.
+A large part of what I did and what the team did, what we focused on as a team, was to improve the value proposition for Prime customers to make the shipping faster, to make more products eligible, to address some of the anomalies in the early days. It was substantially better if you ordered on a Monday than if you ordered it on a Thursday. You order on a Thursday and your free two days didn’t get you there till Monday, sometimes Tuesday. That sort of thing.
+When we crossed the million-customer mark, we had a party — and we didn’t have a lot of parties at Amazon. ... Jeff came and said that we’d have the next party at 10 million and everyone just laughed. 
+I recall the state of it when I joined: There was a big lack of clarity around whether this was going to prove out long-term, financially. ... We had to look at these two extremes of heavy bulky stuff and the low-price-point stuff.
+When someone orders a $3 toothbrush and we send it to them two-day delivery, there’s just no way we can make money on that. So we created the add-on program where some items are at a price point where if you want to attach them to an order, great, they’ll come along. But you’re not going to get them in two days for free.
+And on the heavy, bulky side, we essentially set up criteria where certain products would be “Prime standard.” It would still be free shipping but it would be pretty standard shipping. That gave us some flexibility. 
+The key to making this program profitable was in lowering the cost of fulfillment for two-day, which is all operations, and increasing the product profit margin, which is all retail. And so I would go so far as to say Prime would not have continued to exist and would not be close to what it is today if it were not for the work that the operations team ... did to innovate and figure out how to bring down the cost of two-day fulfillment.
+Prime is just a nice layer of icing, essentially, on that fulfillment business, in many ways.
+In 2006, we mostly had our inventory in the Midwest. The cost between the fulfillment center and the customer was about $1.50 a package. The cost by air was about $15. So it was 10x more expensive to send a package by air.
+I’ll always remember, I presented the numbers to Jeff Bezos and I said, “This is what Prime is going to cost because of the percentage by air.” And Bezos said, “You aren’t thinking correctly.”
+It was a self-fulfilling prophecy: If customers liked Prime, the demand would go up. And because the demand would go up, we had more freedom to build new fulfillment centers.
+That’s why he’s a genius and I’m just an operations guy.
+Two years after Prime had launched, FBA started to kind of kick in. We started to get a little more traction and that was a really big driver. And a little bit later ... we had the introduction of benefits for Prime Student. 
+If you were a college student, you got free Prime for a year. We later made it six months.
+The two times in your life when you were most likely to change your shopping behavior are when you’re a student — when you become a new adult — and when you have children. So as they got older, they were already sort of addicted to Amazon being the best place for them to get their stuff.
+We debated about giving Prime away to your household members. But who are household members? How do you verify that? 
+I was on the side that people are inherently good; it’s only a very few people that want to cheat you. If people are really cheating, let’s look at patterns and find those people as opposed to putting a lot of friction up front.
+It took a really long time for Prime to take off. All the way up until they bundled some of the digital video as Prime benefits, it didn’t really take off. It was definitely growing, but it took a whole lot longer than people think to overtake Free Super Saver Shipping.
+And then, of course, came Prime Video and Music. Video was a big, big transformer. 
+Amazon first introduced an internet video service in 2006 with the unveiling of Amazon Unbox, a service that launched with thousands of TV shows and movies available for sale or rental by download. Amazon was willing to launch the service even though it had the potential to cannibalize its own DVD business. 
+Just a year later, Netflix introduced a streaming video service in addition to its DVD business. And Amazon eventually realized that if it was going to have a real future in the online entertainment business, it would need to build a subscription video service as well. Enter Prime Video in 2011.
+Netflix had a budget which — and you’re going to laugh when I tell you the scary number — was $35 million dollars a year on video content. These were fixed costs. This meant they’d go and buy the rights to movies and TV shows from the studios for $35 million a year and it didn’t matter whether they had one viewer or 100 million viewers, that’s what they’re going to pay. Well, that’s not the business Amazon was in.
+We were giving much more than $35 million a year to the motion-picture studios at the time. But it was a daunting thing to commit to it on a fixed-fee basis with no knowledge of how we’re going to actually get any subscribers. In the 2008, ’09, ’10 era, that was a scary amount of money. 
+And I remember then Jeff finally goes, “I’ve got an idea.” And in typical Jeff fashion he picked something that was not on the list at all and he said, “Let’s make it part of Amazon Prime.” And we looked at him like there are arms and legs growing out of his head. Like, “What are you talking about? Amazon Prime? That’s the free shipping program.”
+And the principle that Jeff realized was that we need to do actually exactly what Netflix did when they first launched their digital service. Everyone scoffed at that, too. Like, “you’re offering digital plus DVDs and you’re not charging more?”
+Netflix was able to get away with the fact that the content was not great at the beginning because it was free. It was like, “Oh, by the way, here you go, here’s some movies along with it.” And we were going to take a page out of their book.
+I remember Jeff used those exact words — It’s an, “Oh, by the way.” “Yeah, Prime is $79 a year. Oh, by the way, there’s free movies and TV shows with it.” And how much could consumers complain about the quality of movies and TV shows if it’s free?
+At the time, we said this is the best value in the history of shopping and this just made it better by offering this entertainment piece as well. ... 
+So what we find is that customers who watch a movie that they love, they buy more Tide. They shop more, they’re more likely to renew their Prime subscription, they’re more likely to convert a free trial into a monthly or annual Prime subscription. So video viewers are telling us with their actions that video is an important part of the Prime experience.
+Amazon’s Prime Video offering eventually evolved into various parts: Amazon-created Prime Originals movies and shows only available to Prime members; an a la carte offering like iTunes, where new movies and shows are available for rent or purchase; and Amazon Channels, which lets Prime members subscribe to content from channels like HBO and Showtime for monthly fees. 
+When we added HBO that was a pretty significant day. It was a big deal because of the cachet of that content and we were going to have it and Netflix wasn’t going to have it. I can’t remember the exact stats, but something like as soon as we launched HBO, of the top 50 TV series on Amazon Prime, 40 of them were HBO series or something insane like that. 
+In April 2016, Amazon began letting customers subscribe to Prime Video without becoming full Prime members. But the goal remained the same: hook people with movies, and then get them to shop more.
+For people who only subscribe to Prime Video, we obviously would like them to subscribe to the rest of Prime as well. And so we work to try and convince them of the value of the broader benefit package that Prime offers.
+One of the reasons that we offer a monthly service is it’s an easier onramp rather than just the annual offering. People can pick and choose what they think is right for them based on their economic situation and their tastes.
+There’s a lot of work we tried to do on distribution, but that was probably our biggest challenge relative to competition for a long time. So either we were disadvantaged versus Apple because they had the biggest distribution footprint of Apple devices, which in many cases we weren’t compatible with or were but in some highly hamstrung way, or we were challenged to compete on distribution versus Netflix because we had this opposite problem of being Amazon. There was a period of years where we couldn’t get our video app onto a Sony device or Samsung TVs because of their partners like Walmart and Best Buy. They were very clear in signaling to Sony and Samsung that they wouldn’t sell any TVs or game consoles that had an Amazon app on them because they were so fearful of Amazon as a retail competitor.
+We were at a huge disadvantage until finally we launched our own devices.
+But then you wake up and realize that this business is about the content. Then Netflix came to that same conclusion and really everything about Netflix shifted to become about the shows that they have exclusively.
+ In 2010, Amazon launched Amazon Studios in a bid to create its own slate of movies and TV shows that viewers couldn’t find anyone else. But there was a twist: Amazon made a public call for submissions for screenplays and full-length movies from budding screenwriters and filmmakers, not established stars. 
+The biggest problem the Hollywood studios have is their batting average is not that high and more movies lose money than make money. And boy, if you could just improve that batting average, that would be a much more interesting business. And isn’t there a way to improve that batting average by using the crowd? 
+People submitted these test movies. We got lots and lots of submissions. But ... it really wasn’t yielding interesting projects. The reality is that to actually create a good, engaging video production, it’s time-consuming. It’s expensive.
+So we sort of scuttled that and ... the timing happened to coincide with the idea that we should really start thinking about investing in our own original TV shows or movies. And then over a process of months, maybe a year, eventually we got to the point of saying, “Okay, these projects like Alpha House and Betas — these are good enough and we should greenlight these, we should put our money in.” That’s how we got going.
+Like most things at Amazon, there were very few hockey stick moments. Yeah, there was a hockey stick moment for the Kindle when it went on Oprah. But Amazon was never like Facebook or Instagram that sort of had a life of its own and just took off at a crazy upward pace.
+I was amazed at the level of investment that Jeff and the company was willing to make in Prime Video, but it was a bet. It was unclear if it would work. And I knew that what it meant was we were going to have the challenge of not only communicating Prime Instant Video, but all of these other potential benefits: Prime Music and cloud storage and Kindle. 
+The ask from Jeff was go figure out what the Prime benefit is to every part of the company. And my concern, frankly, was how do we make sure that the benefits we’re putting in place are valuable to the members; what I really ... didn’t want Prime to become was the coupon book or the long list of meaningless benefits that you get from a credit card or a AAA thing, where no one really knows or remembers what benefit you get. I didn’t want to dilute the value by adding stuff, if that makes sense.
+We had discussions about should we have different tiers of Prime: Prime Shipping, or Prime Shipping with Video, or Prime Shipping and then pick two of 10 other benefits. And it just adds all this mental complexity that we didn’t want to introduce.
+We eventually set a goal for ourselves: What’s it gonna take to be over 100 million members worldwide? 
+As we started to see how people were adopting and responding very positively to the video content, I started going to every business leader in Amazon and said, “Hey, Prime is this opportunity to provide our premium customers the best of Amazon. What is it in your business unit that you think we could include in Prime as a way to drive more engagement, not only for your business, but to add to the flywheel of all things Amazon?” And so that was probably about 2014 that it was made an objective for our teams.
+And that’s how we came up with the music service, the photo service, the credit card, the Prime exclusive products, the Prime Reading. 
+On June 16, 2017, Amazon shocked the business world by announcing its intention to purchase the organic grocery chain Whole Foods for $13.7 billion in what would by far be the company’s largest acquisition. Quickly, it became clear that Prime would become the loyalty program of Whole Foods.
+Immediately after the close of the deal, we lowered prices on a bunch of high-volume items that are kind of everyday staples. And then we’ve over time continued to add new features to how your Prime membership works when you’re at Whole Foods. So we now have 10 percent off of existing specials for Prime members only. We had some special deals on Prime Day that went over really well. If you get a Prime credit card and you use it at Whole Foods, you get 5 percent cash back. Prime Now is delivering from Whole Foods all over the country and so we’ll keep working on that.
+We’ve tried to respect the history and culture of Whole Foods and the things that are special and different about it, and then add some things from Prime that can make it even better. And we’ll be experimenting probably forever on this.
+We talk about one-way doors and two-way doors inside of Amazon. A two-way door is a decision you make that you could reverse easily. And I think signage and the way things are branded and that sort of thing is kind of a two-way door.
+If we do something that we don’t really like, or customers say, “Hey, that’s kind of annoying,” we’ll just change it a little bit.
+In April 2019, Amazon announced that it was changing Prime — more than a little bit: Prime’s standard promise of two-day shipping was being cut in half. The new Prime shipping promise will soon be one-day shipping.
+Leigh
+I don’t think it will ever be fast enough for Amazon — or for consumers — until it’s like, available in the next 10 minutes on my doorstep. I would only expect Amazon to keep pushing the envelope and getting faster and faster. It was always the goal.
+Don’t miss Land of the Giants, a new Vox Media podcast about the five technology giants that dominate our lives – for better and for worse. Recode’s Jason Del Rey is hosting the first season, The Rise of Amazon, which focuses on how the e-commerce giant has fundamentally changed the way that we all shop, watch, learn, and communicate online. The first episode debuts on July 23, and you can subscribe for free here.
+Recode and Vox have joined forces to uncover and explain how our digital world is changing — and changing us. Subscribe to Recode podcasts to hear Kara Swisher and Peter Kafka lead the tough conversations the technology industry needs today.
+Will you support Vox today?
+
+      We believe that everyone deserves to understand the world that they live in. That kind of knowledge helps create better citizens, neighbors, friends, parents, and stewards of this planet. Producing deeply researched, explanatory journalism takes resources. You can support this mission by making a financial gift to Vox today. Will you join us?
+
+
+$5/month
+
+
+$10/month
+
+
+$25/month
+
+
+$50/month
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+Check your inbox for a welcome email.
+Oops. Something went wrong. Please enter a valid email and try again.

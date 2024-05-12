@@ -1,0 +1,30 @@
+This is how Netflix's top-secret recommendation system works | WIRED
+To revisit this article, visit My Profile, then View saved stories.
+Libby Plummer
+More than 80 per cent of the TV shows people watch on Netflix are discovered through the platform’s recommendation system. That means the majority of what you decide to watch on Netflix is the result of decisions made by a mysterious, black box of an algorithm. Intrigued? Here's how it works.
+Netflix uses machine learning and algorithms to help break viewers’ preconceived notions and find shows that they might not have initially chosen. To do this, it looks at nuanced threads within the content, rather than relying on broad genres to make its predictions. This explains how, for example, one in eight people who watch one of Netflix's Marvel shows are completely new to comic book-based stuff on Netflix.
+Read more: Disney's streaming gamble is all about not getting eaten by Netflix
+To help understand, consider a three-legged stool. "The three legs of this stool would be Netflix members; taggers who understand everything about the content; and our machine learning algorithms that take all of the data and put things together," says Todd Yellin, Netflix’s vice president of product innovation.
+While Netflix has over 100 million users worldwide, if the multiple user profiles for each subscriber are counted, this brings the total to around 250 million active profiles. "What we see from those profiles is the following kinds of data – what people watch, what they watch after, what they watch before, what they watched a year ago, what they’ve watched recently and what time of day". This data forms the first leg of the metaphorical stool.
+This information is then combined with more data aimed at understanding the content of shows. The latter – the second leg of the stool – is gathered from dozens of in-house and freelance staff who watch every minute or every show on Netflix and tag it. The tags they use range massively from how cerebral the piece is, to whether it has an ensemble cast, is set in space, or stars a corrupt cop.
+"We take all of these tags and the user behaviour data and then we use very sophisticated machine learning algorithms that figure out what’s most important - what should we weigh," Yellin says. "How much should it matter if a consumer watched something yesterday? Should that count twice as much or ten times as much compared to what they watched a whole year ago? How about a month ago? How about if they watched ten minutes of content and abandoned it or they binged through it in two nights? How do we weight all that? That’s where machine learning comes in. What those three things create for us is ‘taste communities’ around the world. It’s about people who watch the same kind of things that you watch."
+Viewers fit into multiple taste groups – of which there are "a couple of thousand" – and it’s these that affect what recommendations pop up to the top of your onscreen interface, which genre rows are displayed, and how each row is ordered for each individual viewer. The tags that are used for the machine learning algorithms are the same across the globe. However, a smaller sub-set of tags are used in a more outward-facing way, feeding directly into the user interface and differing depending on country, language and cultural context. "These have to be localised in ways that make sense," Yellin says. "For example, the word ‘gritty’ [as in, 'gritty drama'] may not translate into Spanish or French."
+Emily Mullin
+David Cox
+Angela Watercutter
+Kate O'Flaherty
+Read more: The next media revolution will come from driverless cars
+The data that Netflix feeds into its algorithms can be broken down into two types – implicit and explicit. “Explicit data is what you literally tell us: you give a thumbs up to The Crown, we get it,” Yellin explains. "Implicit data is really behavioural data. You didn’t explicitly tell us 'I liked Unbreakable Kimmy Schmidt', you just binged on it and watched it in two nights, so we understand that behaviourally. The majority of useful data is implicit."
+To illustrate how all this data comes together to help viewers find new things to watch, Netflix looked at the patterns that led viewers towards the Marvel characters that make up The Defenders. While there were some more obvious trends, such as series with strong female leads – like Orange is the New Black – steering characters towards Jessica Jones, there were also a few less obvious sources, like the smart humour of Master of None and the psychological thrill of Making A Murderer driving people towards the wise-ass private detective. Meanwhile, "shows that expose the dark side of society" were shown to drive viewers to Luke Cage, such as the question of guilt in Amanda Knox and the examination of technology in Black Mirror.
+This article was originally published by WIRED UK
+Matt Kamen
+Angela Watercutter
+Meghan O'Gieblyn
+Jennifer M. Wood
+Kyle Orland, Ars Technica
+Matt Kamen
+Simon Hill
+Chris Baker
+More From WIRED
+Reviews and Guides
+© 2024 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices

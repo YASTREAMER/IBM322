@@ -1,0 +1,78 @@
+ science Amazon Prime Amazon Science 
+
+ 2020 shareholder letter Jeff Bezos executive chair Amazon board directors shared 200 million people world Prime membership attendant benefits 
+
+ include delivery benefits like free day delivery digital benefits Prime Video Amazon Music shopping benefits including Prime Day member deals Prime members able download thousands e books magazines comics free unlimited photo storage order groceries online 
+
+ Amazon continually expanding evolving selection Prime benefits enhance value members Bezos wrote earlier shareholder letter want Prime good value irresponsible member 
+
+ help deliver value Prime members scientists Amazon Prime organization develop methods help consumers discover utilize Prime benefits techniques derived machine learning structural econometrics disciplines help Amazon decide evolve Prime benefit offerings world 
+
+ Surface relevant Prime benefits customers 
+
+ 
+
+ shoppers visit Amazon Store presented variety Prime callouts relevant benefits related product information Callouts non Prime members outline wide variety benefits available Prime members options utilize Prime benefits example Prime member visiting detail page movie Jane Eyre callout saying title available free Prime Reading 
+
+ utilize recommender systems engage shoppers information Prime benefits find interesting says Houssam Nassif principal applied scientist Amazon consumer organization 
+
+ predictions callout excite customers system maps item attributes like brand color price title category items selected customers models embedded system use Bayesian recommenders decisions relevant content surface Bayesian inferences predictions future events updating prior hypotheses information available 
+
+ limits approach example relying exclusively Bayesian methods measure customer selections bias results popular items example shoppers interested Jane Eyre want read new romance novels challenge newer items untrained model weights cause system underestimate true click probability 
+
+ experience similar going music recommendation engine seeing chart toppers favorite categories Nassif explains improve diversity recommendations overcome classic exploitation exploration dilemma including relevant popular items exploitation newer long tail items scored higher expected value exploration 
+
+ Prime ML team utilizes methods allow algorithm update click probability score delayed feedback customers 
+
+ Adaptive systems allow focus diversity recommendations says Nassif 
+
+ Prime adaptive systems respond continually evolving preferences Amazon customers example classic literature enthusiasts read Jane Eyre callouts romance novels romantic comedy movies express interest romance novels recommender systems captured paper Bayesian meta prior learning Empirical Bayes 
+
+ Recommending content customers love 
+
+ 
+
+ Determining relevant Prime benefits present users step Prime scientists developed algorithms determine formats likely appeal customers 
+
+ callout multiple dimensions turn presents large number decisions says Nassif customers like callout feature single particular product grouping products decisions develop accurate understanding customer preferences 
+
+ Callouts comprise multiple components headline body copy image images include elements like customer reviews Testing multiple variables combinatorial problem cover large decision space poses limitations speed experiments designed arrive layout customers prefer 
+
+ eliminate combinatorial explosions result considering possible combination models score small subset combinations extrapolating learnings larger universe layouts presented customers Conditioned prior observations models able select layout highest probability delivering highest customer value 
+
+ Evolving selection Prime benefits 
+
+ 
+
+ addition informing customers receive recommendations Prime exists today scientists influence Prime evolve membership work involves scientists multiple disciplines collaborating closely determine best selection benefits determining best reduce shipping speeds Prime including items eligible fastest speeds recommending new podcasts Amazon Music release 
+
+ Charlie Manzanares senior manager team specializes simulating customers benefit expansion Prime benefits Manzanares team comprises economists applied scientists research scientists business intelligence engineers partner closely product managers software data engineers 
+
+ team works scientific intersection structural econometrics machine learning causal inference says Manzanares Building tools involves inventing new science involving scientists engineers variety backgrounds utilize tools create scientific software engineering scale exhilarating space solving scientific technical challenges tools Prime better members world company relies information high stakes investments adds interesting layer strategic management consulting work 
+
+ Manzanares points recent innovation Prime scientists modeling dynamic customer decisions easier 
+
+ Prime members dynamic choices remain Prime members Dynamic customer choices involve tradeoffs value flexibility explains   example customers choose joining Prime annual monthly plans ending membership joining Prime time tradeoff results possible permutations choices example member choose monthly Prime months join annual Prime choose monthly Prime months remain non Prime join monthly Prime months etc 
+
+ Modeling impact choice permutations way useful counterfactual simulation theoretically computationally challenging 
+
+ theoretical challenge identification problem Manzanares explains identification problem makes hard scientists determine Prime feature caused members particular choice 
+
+ example member engaged Prime shipping Prime Video choose renew valued Prime shipping highly Prime Video Prime Video highly Prime shipping asks Manzanares problem common dynamic static choice problems i.e. choice problems choice values influenced past choices computational problem pervasive dynamic choice settings generated sheer number possible choices labeled curse dimensionality dynamic programming literature 
+
+ overcome challenges team combined new techniques inverse reinforcement learning old assumption structural econometrics Inverse reinforcement learning machine learning paradigm popularized late 1990s early 2000s 
+
+ opposed reinforcement learning learns behavioral policies active experimentation inverse reinforcement learning learns reward utility functions actual customer behavior uses estimated utility functions choices new settings Structural econometrics older paradigm rich literature types exercises 1940s 
+
+ hand inverse reinforcement learning draws modern machine learning techniques techniques allow rich approximations complex settings says Manzanares hand structural econometrics solved complex theoretical issues related counterfactual simulation solutions predate development modern machine learning computation dichotomy creates opportunities intellectual arbitrage literatures 
+
+ team approach challenge described paper Deep PQR Solving Inverse Reinforcement Learning Anchor Actions published 2020 International Conference Machine Learning 
+
+ findings presented paper applicable multiple fields says Manzanares surprising paper insights possible collaboration multiple disciplines 
+
+ Prime scientists use inverse reinforcement models develop insights insights Prime evolve meet customer needs example Prime evolve best meet needs Gen Z engage heavily digital benefits video music gaming grocery delivery pickup maximize customer convenience 
+
+ questions multiply Prime expands globally international marketplaces especially emerging ones customer needs vary widely example Prime serve rural urban customers marketplace like India needs rural urban customers different Experimentation Manzanares notes critical 
+
+   process discovering customers want world lot fun says Combine building cutting edge science partnership extremely talented science engineering business professionals makes Prime rewarding place scientist 
+

@@ -1,0 +1,27 @@
+Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science
+Sign up
+Sign in
+Sign up
+Sign in
+Member-only story
+David Chong
+Follow
+Towards Data Science
+--
+3
+Share
+Netflix is synonymous to most people in this day and age as the go-to streaming service for movies and tv shows. What most people do not know, however, is that Netflix started out in the late 1990s with a subscription-based model, posting DVDs to people’s homes in the US.
+--
+--
+3
+Towards Data Science
+Software Engineer @ Shopee; Closet n3rd; Husband & Father; LinkedIn → bit.ly/3CmUbUf; Medium — tinyurl.com/2rk9ub8k; Support me → tinyurl.com/davidcjw
+Help
+Status
+About
+Careers
+Blog
+Privacy
+Terms
+Text to speech
+Teams

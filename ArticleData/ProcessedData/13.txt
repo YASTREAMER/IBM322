@@ -1,0 +1,94 @@
+ Recommending World AlgorithmsEverywhere | Netflix Technology Blog | Netflix TechBlog 
+
+ Sign 
+
+ Sign 
+
+ Sign 
+
+ Sign 
+
+ Netflix Technology Blog 
+
+ Follow 
+
+ Netflix TechBlog 
+
+ 
+
+ Listen 
+
+ Share 
+
+ Yves Raimond Justin Basilico 
+
+ Netflix experience driven number Machine Learning algorithms personalized ranking page generation search similarity ratings etc 6th January simultaneously launched Netflix 130 new countries world brings total 190 countries Preparing rapid expansion ensuring algorithm ready work seamlessly created new challenges recommendation search teams post highlight interesting challenges encountered making algorithms operate globally importantly improved ability connect members worldwide stories love 
+
+ add video streaming catalog Netflix need obtain license content owner content licenses region specific country specific held terms years time Ultimately goal let members world enjoy content global licensing currently catalog varies countries example dystopian Sci Fi movie Equilibrium available Netflix France Matrix available France recommendation models rely heavily learning patterns play data particularly involving co occurrence sequences plays videos particular algorithms assume played weak signal like video chose play particular scenario observe members played Equilibrium Matrix basic recommendation model learn movies appeal kinds people audiences constrained different movies available set members likely observe similarity videos members watch example clear uneven video availability potentially interferes quality recommendations 
+
+ search experience faces similar challenge Given partial query member want present relevant videos catalog accounting availability differences reduces quality ranking example results given query ranking algorithm unaware availability differences include niche video followed known case available relatively small number global members available broadly 
+
+ aspect content licenses start end dates means similar problem arises countries given country time compare known video available Netflix single day niche video available months conclude lot engaging recently added known video instead site months probably total engagement 
+
+ imagine impact issues sophisticated search recommendation models introduce bias simple popularity Addressing issue uneven availability geography time lets algorithms provide better recommendations video service available new country 
+
+ avoid learning catalog differences focus real goal learning great recommendations members incorporate algorithm information members access different catalogs based geography time example building concepts statistical community handling missing data 
+
+ key challenge making algorithms work world ensure capture local variations taste know catalog worldwide expect video exact popularity countries example expect Bollywood movies different popularity India Argentina members similar recommendations similar profiles member lives India Argentina watching lot Sci Fi recommendations similar overall expect Argentine members recommended Argentine Cinema Indian members Bollywood 
+
+ obvious approach capture local preferences build models individual countries countries small little member data available Training recommendation algorithm sparse data leads noisy results model struggle identify clear personalization patterns data need better way 
+
+ Prior global expansion approach group countries regions reasonable size relatively consistent catalog language build individual models region capture taste differences regions trained separate models hyperparameters tuned differently region long members certain taste preference reasonable history recommendation model able identify use pattern taste problems approach region data large country dominate model dampen ability learn local tastes country smaller number members presented challenge maintain groupings catalogs changed time memberships grew Finally continuously running B tests model variants algorithms combinatorics involving growing number regions overwhelming 
+
+ address challenges sought combine regional models single global model improves recommendations especially countries members course combining data need reflect local differences taste leads question local taste personal taste dominant Based data seen far aspects important clear taste patterns travel globally Intuitively makes sense member likes Sci Fi movies world likes Sci Fi better source recommendations door neighbor likes food documentaries able discover worldwide communities interest means improve recommendations especially niche interests based data global algorithm identify new different taste patterns emerge time 
+
+ refine models use signals content members global context important taste signals language location want models aware logged aspects video language popular Going example information let offer different recommendations brand new member India compared Argentina distribution tastes countries different expand importance language section 
+
+ Netflix grown support 21 languages catalog includes local content increase creates number challenges especially instant search algorithm mentioned key objective algorithm help member find play search minimizing number interactions different standard ranking metrics evaluate information retrieval systems interaction account looking interactions clear different languages involve different interaction patterns example Korean usually typed Hangul alphabet syllables composed individual characters example search 올드보이 Oldboy worst possible case member enter characters ㅇ ㅗ ㄹㄷ ㅡ ㅂ ㅗ ㅇㅣ basic indexing video title best case member need type characters ㅇ ㅗ ㄹ collapsed syllable title 올 Hangul specific indexing member need write little character ㅇ Optimizing best results minimum set interactions automatically adapting newly introduced languages significantly different writing systems area working improving 
+
+ language related challenge relates recommendations mentioned taste patterns travel globally ultimately people likely enjoy content presented language understand example great French Sci Fi movie service subtitles audio available English want recommend member likes Sci Fi movies speaks English Alternatively member speaks English French good chance appropriate recommendation People preferences watching content originally produced native language fluent constantly try add new language subtitles dubs content languages available content Furthermore different people cultures different preferences watching subtitles dubs Putting clear recommendations better awareness language preferences currently languages member understands degree defined explicitly need infer ancillary data viewing patterns 
+
+ objective build recommendation algorithms work equally members matter live language speak members countries speaking languages challenge face figure algorithm sub optimal subset members 
+
+ handle use approaches challenges example look performance algorithms manually slicing set dimensions country language catalog slices lead sparse noisy data end scale looking metrics observed globally dramatically limit ability detect issues impact large number members approach problem learn best group observations purpose automatically detecting outliers anomalies work improving recommendation algorithms innovating metrics instrumentation monitoring improve fidelity ability detect new problems highlight areas improve service 
+
+ support launch magnitude examined algorithm service began address challenges way found approaches Netflix better signing 130 new countries fact better Netflix members worldwide example solving second challenges let discover worldwide communities interest better recommendations Solving challenge means regardless members based use Netflix language suits best quickly find content looking Solving fourth challenge means able detect issues finer grain recommendation search algorithms help members find content love course global journey beginning look forward making service dramatically better time algorithmic explorer finds type adventure exciting look current job openings 
+
+ dl.acm.org 
+
+ medium.com 
+
+ medium.com 
+
+ media.netflix.com 
+
+ medium.com 
+
+ Originally published techblog.netflix.com February 17 2016 
+
+ 
+
+ 
+
+ Netflix TechBlog 
+
+ Learn Netflix designs builds operates systems engineering organizations 
+
+ Help 
+
+ Status 
+
+ 
+
+ Careers 
+
+ Blog 
+
+ Privacy 
+
+ Terms 
+
+ Text speech 
+
+ Teams 
+

@@ -1,0 +1,226 @@
+ carbon footprint streaming video fact checking headlines Analysis IEA 
+
+ Fossil Fuels 
+
+ Renewables 
+
+ Electricity 
+
+ Low Emission Fuels 
+
+ Transport 
+
+ Industry 
+
+ Buildings 
+
+ Energy Efficiency Demand 
+
+ Carbon Capture Utilisation Storage 
+
+ Decarbonisation Enablers 
+
+ COP28 Tracking Energy Outcomes 
+
+ IEA 50th Anniversary 
+
+ Climate Change 
+
+ Critical Minerals 
+
+ Energy Gender 
+
+ Russia War Ukraine 
+
+ Global Energy Crisis 
+
+ Energy Security 
+
+ Investment 
+
+ Saving Energy 
+
+ Data explorers 
+
+ Understand manipulate data easy use explorers trackers 
+
+ Data sets 
+
+ Free paid data sets energy system available download 
+
+ Policies database 
+
+ Past existing planned government policies measures 
+
+ Chart Library 
+
+ Access chart published IEA reports analysis 
+
+ Moving increased affordability 
+
+ 
+
+                          Flagship report April 2024 
+
+                     
+
+ 
+
+                          Fuel report April 2024 
+
+                     
+
+ 
+
+                          Flagship report October 2023 
+
+                     
+
+ 2023 Update 
+
+ 
+
+                          Flagship report September 2023 
+
+                     
+
+ Sign 
+
+ Create free IEA account download reports subcribe paid service 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ George Kamiya Energy Policy Analyst 
+
+ 
+
+ Commentary 11 December 2020 
+
+ 
+
+ IEA 2020 carbon footprint streaming video fact checking headlines IEA Paris https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines 
+
+ version commentary originally published Carbon Brief 
+
+ millions confined homes global pandemic improvements internet connections service offerings led exponential increase use streaming video world options left entertainment streaming services taking commentary examine carbon footprint services 
+
+ Streaming services associated energy use carbon emissions devices network infrastructure data centres contrary slew recent misleading media coverage climate impacts streaming video remain relatively modest particularly compared activities sectors 
+
+ Drawing analysis credible sources expose flawed assumptions widely reported estimate emissions watching 30 minutes Netflix exaggerate actual climate impact 90 times 
+
+ relatively low climate impact streaming video today thanks rapid improvements energy efficiency data centres networks devices slowing efficiency gains rebound effects new demands emerging technologies including artificial intelligence AI blockchain raise increasing concerns overall environmental impacts sector coming decades 
+
+ Update 11/12/2020 energy intensity figures data centres data transmission networks updated reflect recent data research result central IEA estimate hour streaming video 2019 36gCO2 82gCO2 original analysis published February 2020 updated charts comparisons include corrected values published Shift Project June 2020 recent estimates quoted media 
+
+ number recent media articles including New York Post CBC Yahoo DW Gizmodo Phys.org BigThink repeated claim emissions generated watching 30 minutes Netflix 1.6   kg CO2 driving 4 miles 
+
+ figures come July 2019 report Shift Project French thinktank unsustainable growing impact online video report said streaming responsible 300 m tonnes CO2 MtCO2 2018 equivalent emissions France Shift Project published follow article June 2020 correct bit byte conversion error revising original 1.6 kg half hour quote downwards 8 fold 0.2 kg half hour 
+
+ Shift Project original 3.2kgCO2 hour estimate times higher 2014 peer reviewed study energy emissions impacts streaming video corrected estimate 0.4kgCO2 hour similar 2014 peer reviewed study 
+
+ 2014 study found streaming 2011 emitted 0.42kgCO2e hour lifecycle basis including embodied emissions manufacture disposal infrastructure devices Emissions operations comparable scope Shift Project analysis accounted 0.36kgCO2e hour 
+
+ energy efficiency data centres networks improving rapidly doubling couple years energy use emissions streaming today substantially lower 
+
+ Looking electricity consumption original Shift Project figures imply hour Netflix consumes 6.1 kilowatt hours kWh electricity drive Tesla Model S 30 km power LED lightbulb constantly month boil kettle day nearly months corrected figures imply hour Netflix consumes 0.8 kWh 
+
+ 167 million Netflix subscribers watching   average hours day corrected Shift Project figures imply Netflix streaming consumes 94 terawatt hours   TWh year 200 times larger figures reported Netflix 0.45TWh 2019 
+
+ recent claim Channel 4 Dispatches estimated 7bn YouTube views 2017 hit song Despacito Luis Fonsi Daddy Yankee featuring Justin Beiber   consumed 900 gigawatt hours GWh electricity 1.66 kWh viewing hour rate YouTube 1 billion viewing hours day consume 600   TWh year 2.5 global electricity use electricity globally data centres ~200 TWh data transmission networks ~250 TWh 
+
+ clear figures high 
+
+ assumptions Shift Project analysis largely based 2015 paper assumptions significantly revised 2019 2020 contain series flaws taken seriously exaggerate electricity consumed streaming video 
+
+ original 1.6 kg half hour claim overestimated bitrate data transferred second streaming apparently assuming figure 24 megabits second Mbps equivalent 10.8 gigabytes GB hour times higher global average bitrate Netflix 2019 4.1 Mbps 1.9 GB hr excluding cellular networks triple transfer rate high definition HD 3 GB hr typical transfer rates 7 GB hr ultra high definition UHD/4 K 0.7 GB hr standard definition SD 0.25 GB hr mobile 
+
+ difference stemmed stated assumption 3Mbps apparently converted error 3 megabytes second MBps byte equivalent bits Shift Project corrected error June 2020 update revise assumptions discussed 
+
+ chart shows ways Shift Project overestimated electricity use streaming video   bitrate   area underestimated actual figure errors described text chart 
+
+ Shift Project analysis overestimates energy intensity data centres   content delivery networks CDNs   serve streaming video consumers 35 fold relative figures derived   2019 Netflix electricity consumption data   subscriber usage data 
+
+ updated analysis shows Shift Project overestimates energy intensity data transmission networks 50 fold based average bitrates streaming video result high outdated energy use assumptions access modes   example 0.9 kWh GB mobile compared recent peer reviewed estimates 0.1 0.2 kWh GB 4 G mobile 2019  
+
+ original February 2020 analysis showed Shift Project assumptions data transmission energy intensity 0.15 0.88 kWh GB higher recent estimates 0.025 0.23kWh GB latest research shows data based intensity values kWh GB appropriate estimating network energy use high bitrate applications streaming video Instead experts advise time based energy intensity values kWh viewing hour assumptions data transmission energy use updated time based energy intensity values 
+
+ Shift Project   underestimates   energy consumption devices 4 fold assumes viewing occurs smartphones 50 laptops 50   According Netflix 70 viewing occurs TVs energy intensive laptops 15 viewing tablets 10 smartphones 5 
+
+ Taken updated analysis suggests streaming Netflix video 2019 typically consumed 0.077   kWh electricity hour 80 times original estimate Shift Project 6.1   kWh 10 times corrected estimated 0.78   kWh shown chart left results highly sensitive choice viewing device type network connection resolution shown chart right 
+
+ example 50 inch LED television consumes electricity smartphone 100 times laptop 5 times phones extremely energy efficient data transmission accounts 80 electricity consumption streaming Streaming hour long SD video phone WiFi Scenario C uses 0.037 kWh 170 times estimate Shift Project 
+
+ Based average viewing habits updated analysis shows viewing devices account majority energy use 72 followed data transmission 23 data centres 5 contrast Shift Project values devices account 2 total energy use result underestimating energy use devices 4x substantially overestimating energy use data centres 35x data transmission 50x 
+
+ carbon footprint streaming video depends electricity usage set CO2 emissions associated unit electricity generation 
+
+ electricity end uses electric vehicles means overall footprint streaming video depends heavily electricity generated 
+
+ Powered global average electricity mix streaming 30 minute Netflix 2019 released 0.018kgCO2e 18 grammes second bar chart 90 times original 1.6 kg figure Shift Project 11 times corrected figure 0.2 kg 
+
+ IEA estimate substantially lower estimates quoted media including 22 times lower Despacito claim cited Channel 4 BBC Fortune Al Jazeera assuming global average grid mix 11 times lower claim Save Energy 80 million views Birdbox emitted 66ktCO2 cited New Yorker Euronews Forbes Die Welt Daily Mail estimate 36gCO2 hour 2100 times lower Marks et al 2020 estimated 35 hours HD video emits 2.68tCO2 77kgCO2 hour 
+
+ context updated estimate average carbon footprint half hour Netflix equivalent driving 100 metres conventional car 
+
+ chart shows figure depends heavily generation mix country question France   90 electricity comes low carbon sources emissions 2gCO2e equivalent 10 metres   driving  
+
+ country average emission factors overestimate emissions particularly data centres Technology firms operating large data centres leaders corporate procurement clean energy accounting   half renewable power purchase agreements   recent years 
+
+ electricity mix rapidly decarbonising parts world instance emissions intensity electricity UK   fell nearly 60 2008 2018 Compared   2019 levels global emissions intensity electricity   falls   quarter 2030 IEA   Stated Policies Scenario   half   Sustainable Development Scenario 
+
+ carbon footprint streaming video remains relatively modest reasonable expect overall impact rise given exponential increases usage 
+
+ major improvements efficiency computing described Koomey Law law describes trends energy efficiency computing doubled roughly 1.6 years 1940s   2.7 years 2000 similar trend observed data transmission networks   energy intensity halving years 2000 
+
+ Coupled short lifespans devices equipment hastens turnover efficiency overall stock devices data centres networks improving rapidly 
+
+ example increasingly efficient hardware following Koomey Law major shift hyperscale data centres helped electricity demand flat 2015 chart right Data centres worldwide today consume 1 global electricity use   internet traffic tripled   2015 data centre workloads measure service demand   doubled chart left 
+
+ changes invisible consumer obvious trends technology seen everyday Devices smaller efficient example shifts CRT LCD screens personal computers tablets smartphones 
+
+ Set fact consumption streaming media growing rapidly Netflix subscriptions grew 20 year 167 m electricity consumption rose 84 
+
+ new video streaming cloud gaming services launched recent months Particularly noteworthy rapid growth video traffic mobile networks growing 55 year Phones tablets account 70 billion hours YouTube streamed day 
+
+ ease accessing streaming media leading large rebound effect overall streaming video consumption rising rapidly complexity direct indirect effects digital services streaming video e books online shopping immensely challenging quantify net environmental impacts relative alternative forms consumption 
+
+ emerging digital technologies machine learning blockchain 5 G virtual reality likely accelerate demand data centre network services Researchers started study potential energy emissions impacts technologies including blockchain machine learning 
+
+ increasingly likely efficiency gains current technologies unable pace growing data demand reduce risk rising energy use emissions investments RD&D efficient generation computing communications technologies needed alongside continued efforts decarbonise electricity supply 
+
+ Streaming video fairly low emitting activity especially compared driving cinema instance consumers reduce environmental footprint smaller devices screens consume electricity Replacing devices help production phase accounts 80   lifecycle carbon emissions mobile devices televisions   electronic waste   growing problem world 
+
+ data intensive digital activities e mail drawn significant misleading media attention carbon footprint Recent headlines Financial Times Guardian Bloomberg Green suggested cutting e mails lead substantial emission reductions 16,000 tonnes year UK adult sent unnecessary e mail day claims based analysis OVO Energy assume unnecessary e mail emits 1gCO2 come envelope calculations 10 years ago reality emissions e mails today lower experts explained headlines vastly overestimate potential emission reductions avoided emails 
+
+ Technology companies continue play big role reducing environmental impact streaming including efforts increase energy efficiency near term   new technologies   developing generation technologies investing renewable energy power data centres networks 
+
+ Sustainable design coding help   improving video compression   recent study   explored potential energy emission reductions shifting YouTube music videos audio playing background 
+
+ important mind scale emissions digital technologies compared sectors digital technologies accounting 1.5 global carbon emissions 
+
+ sectors technologies needed help achieve goals Paris Agreement digital technologies exception fact digital technologies AI help accelerate climate action sound climate policies AI end helping oil extraction cheaper extending lifetime coal plants 
+
+ indisputable need close eye explosive growth Netflix digital technologies services ensure society receiving maximum benefits minimising negative consequences   including electricity use carbon emissions 
+
+ Instead relying misleading media coverage require rigorous analysis corporate leadership sound policy informed citizens 
+
+ analysis carbon intensity streaming video presented piece based range sources assumptions calculated 2019 latest year possible 
+
+   Update 11/12/2020 
+
+ analysis updated include new data viewing hours new research energy use characteristics data transmission networks high bitrates revised estimate Shift Project published June 2020 update adds comparisons estimates widely quoted media 
+
+ updates IEA latest news analysis data events delivered twice monthly 
+
+ Thank subscribing unsubscribe time clicking link IEA newsletter 
+
